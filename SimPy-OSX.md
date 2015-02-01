@@ -49,7 +49,7 @@ ipython
 ```
 Usemos el ejemplo que viene en la página de [SymPy](https://github.com/sympy/sympy):
 ```python
-from sympy import Symbol, cos
+from sympy import Symbol, cos # Aquí es donde uno importa las clases
 x = Symbol('x')
 e = 1/cos(x)
 print e.series(x, 0, 10)
