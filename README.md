@@ -19,3 +19,4 @@ Al hacer esto, también se nos instalará `Pip` que es un administrador de paque
 
 - SymPy: https://github.com/mrpatiwi/IIC2233-2015-1/blob/master/SimPy-OSX.md
 - pytest: https://github.com/mrpatiwi/IIC2233-2015-1/blob/master/pytest-OSX.md
+- PyQt: https://github.com/mrpatiwi/IIC2233-2015-1/blob/master/PyQt-OSX.md
