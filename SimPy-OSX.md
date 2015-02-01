@@ -41,7 +41,7 @@ Si quieres testear la instalación para ver si está correcta puedes correr:
 ```
 (Esto puede tardar mucho tiempo, para cancelar la operación presiona `CTRL + C`)
 
-### Empecemos a usar la librería
+## Empecemos a usar la librería
 Abrimos `ipython` en la terminal con:
 ```sh
 ipython
