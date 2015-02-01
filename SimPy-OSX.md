@@ -3,9 +3,8 @@
 
 ### Instalamos [MPMATH](https://github.com/fredrik-johansson/mpmath)
 ```sh
-sudo python -m easy_install mpmath
+pip install mpmath
 ```
-Nos pedirá ingresar la contraseña de administrador.
 
 
 ### Instalamos [IPython](https://github.com/sympy/sympy)
