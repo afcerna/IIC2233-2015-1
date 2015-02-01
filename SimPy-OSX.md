@@ -40,6 +40,7 @@ Si quieres testear la instalación para ver si está correcta puedes correr:
 ```sh
 ./setup.py test
 ```
+(Esto puede tardar mucho tiempo, para cancelar la operación presiona `CTRL + C`)
 
 ### Empecemos a usar la librería
 Abrimos `ipython` en la terminal con:
