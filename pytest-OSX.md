@@ -3,7 +3,7 @@
 
 ### Instalamos [pytest](http://pytest.org/latest/getting-started.html)
 ```sh
-pytest pip install -U pytest
+pip3 install -U pytest
 ```
 El argumento `-U` fuerza a que se actualicen los demás paquetes.
 

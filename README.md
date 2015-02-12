@@ -10,9 +10,9 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 
 ### Instalamos Python
 ```sh
-brew install python
+brew install python3
 ```
-Al hacer esto, también se nos instalará `Pip` que es un administrador de paquetes para Python.
+Al hacer esto, también se nos instalará `pip3` que es un administrador de paquetes para Python.
 
 
 ## Otras guías para OSX:
